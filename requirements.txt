@@ -1,0 +1,10 @@
+argon2-cffi==21.3.0
+bcrypt==3.2.2
+pylibsrtp==0.7.1
+pysftp==0.2.9
+pylibtls==0.1.1
+urllib3==1.26.9
+certifi==2021.10.8
+M2CryptoWin64==0.21.1-3
+hashlib-additional==1.1
+pycryptodome==3.14.1
